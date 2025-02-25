@@ -67,7 +67,7 @@ https://lh3.googleusercontent.com/fife/ALs6j_GmDgsSG9d3BD4kVDePhIl8rT5b-_-n1wkx1
 
 # live
 
-https://github.io/CodPro-Sui/Battery-Detect/
+https://codpro-sui.github.io/Battery-Detect/
 
 
 
